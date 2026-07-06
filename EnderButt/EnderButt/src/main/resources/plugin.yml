@@ -1,0 +1,21 @@
+name: AyorButt
+main: com.mines.ayorbutt.AyorButtPlugin
+version: 1.0
+api-version: 1.13
+author: MinesInfinite
+description: Custom Plugin-EnderButt + Features made by Mines
+commands:
+  ayorbutt:
+    description: Main command for AyorButt plugin
+    usage: /ayorbutt help
+    aliases: [ab, ayb]
+permissions:
+  ayorbutt.admin:
+    description: Allows all admin AyorButt commands
+    default: op
+  ayorbutt.reload:
+    description: Allows reloading the config/messages
+    default: op
+  ayorbutt.info:
+    description: Allows viewing AyorButt plugin info(Shows infos and config details)
+    default: op

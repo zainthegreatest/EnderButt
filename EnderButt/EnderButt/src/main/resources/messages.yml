@@ -1,0 +1,6 @@
+# AyorButt Messages Config
+
+no-permission: "&c✗ You do not have permission to use this command."
+ride-start: "&aYou are now riding your pearl!"
+plugin-reloaded: "&a✔ AyorButt config and pearls reloaded!"
+unknown-command: "&c✗ Unknown subcommand. Type &e/ayorbutt help"

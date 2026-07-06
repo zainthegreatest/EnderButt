@@ -1,0 +1,29 @@
+# AyorButt Config Settings (By Mines pookie)
+
+pearl-name: "&bAyor&6Butt"
+pearl-lore: "&7Right click to ride the pearl!"
+pearl-slot: 0
+trail: "FIRE"
+
+# Permissions --
+# ──────────────────────────────────────────────
+#         AYORBUTT PLUGIN CONFIGURATION
+# ──────────────────────────────────────────────
+#
+# >> Main Command:
+#    /ayorbutt help
+#    Aliases: /ab, /ayb
+#
+# >> Permissions Reference:
+#    ayorbutt.admin
+#      - Allows all admin-level AyorButt commands.
+#      - Default: OP
+#
+#    ayorbutt.reload
+#      - Allows reloading the config/messages.
+#      - Default: OP
+#
+#    ayorbutt.info
+#      - Allows viewing plugin info and config details.
+#      - Default: OP
+#
